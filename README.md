@@ -1,4 +1,5 @@
 Introduction: Generating a Synthetic Dataset for Machine Learning
+
 In this project, we generated a synthetic dataset with 250,000 rows designed for machine learning purposes. This dataset simulates various health metrics and demographic information to explore the relationships between age, BMI, heart disease, and other health-related conditions. The goal of this dataset is to serve as a foundational dataset for training machine learning models aimed at predicting health outcomes based on demographic and lifestyle factors.
 
 Dataset Features:
