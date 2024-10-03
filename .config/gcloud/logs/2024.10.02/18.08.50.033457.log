@@ -1,0 +1,8 @@
+2024-10-02 18:08:50,056 DEBUG    root            Loaded Command Group: ['gcloud', 'config']
+2024-10-02 18:08:50,143 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'get_value']
+2024-10-02 18:08:50,145 DEBUG    root            Running [gcloud.config.get-value] with arguments: [SECTION/PROPERTY: "project"]
+2024-10-02 18:08:50,159 DEBUG    root            Chosen display Format:value(.)
+2024-10-02 18:08:50,159 INFO     root            Display format: "value(.)"
+2024-10-02 18:08:50,160 INFO     ___FILE_ONLY___ fast-ethos-437320-q8
+
+2024-10-02 18:08:50,160 DEBUG    root            SDK update checks are disabled.
